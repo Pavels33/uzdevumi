@@ -10,7 +10,9 @@ label = tk.Label(
 label1 = tk.Label(
   text = "hey hey",
  foreground = "blue",
- background = "red"
+ background = "red",
+ width = 12,
+ height = 15
  )
 label.pack()
 label1.pack()
