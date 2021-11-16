@@ -14,3 +14,12 @@ def bilde():
 
 bilde()
 
+
+im = Image.open("15.11/suns_rej7-1024x724.jpg")
+
+
+angle = 90
+
+out = im.rotate(angle)
+out.save('rotate-output.png')
+
