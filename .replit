@@ -1,2 +1,2 @@
 language = "python3"
-run = "python 15.11/image.py"
+run = "python 16.11/uzdevums.ladities.py"
